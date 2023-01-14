@@ -63,4 +63,4 @@ With the recall at 0.94 it means that 94% of the positive classes were predicted
 
 
 ## Summary
-I would recommend using the Easy Ensemble AdaBoost Classifier because it has the highest accuracy score of 93.2%, and highest recall score of 0.94.
+I would recommend using the Easy Ensemble AdaBoost Classifier because it has the highest accuracy score of 93.2%, and highest recall score of 94%.
