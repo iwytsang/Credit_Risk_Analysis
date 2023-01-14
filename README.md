@@ -41,9 +41,17 @@ From the imbalanced classification report, we can see the precision is a total o
 ## Ensemble Learners
 
 ### Balanced Random Forest Classifier
+
+The balanced accuracy score is 78.8%.
+From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.87.
+
 ![image](https://user-images.githubusercontent.com/108503112/212450069-c74602f3-e05c-4271-aae0-d1fbfd17c603.png)
 
 ### Easy Ensemble AdaBoost Classifier
+
+The balanced accuracy score is 54.5%.
+From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.40.
+
 ![image](https://user-images.githubusercontent.com/108503112/212450445-a3218dbb-ed83-458a-8a2c-10e9ac8bce2e.png)
 
 
