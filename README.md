@@ -60,7 +60,7 @@ With the recall at 0.87 it means that 87% of the true positives out of the true 
 
 ### Easy Ensemble AdaBoost Classifier
 
-The balanced accuracy score is 93.2%. That means from all predictions (both positive and negative), we have predicted 93.2% of them correctly.
+The balanced accuracy score is 0.932. That means from all predictions (both positive and negative), we have predicted 93.2% of them correctly.
 From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.94.
 With the precision at 0.99 percent, it means from the true positive and false positives, 99% are actually true positive.
 With the recall at 0.94 it means that 94% of the true positives out of the true positives and false negatives were predicted correctly.
