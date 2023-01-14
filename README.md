@@ -23,9 +23,12 @@ The purpose of this analysis is to make a recommendation of whether or not the m
 
 
 ## Ensemble Learners
+### Balanced Random Forest Classifier
 ![image](https://user-images.githubusercontent.com/108503112/212450069-c74602f3-e05c-4271-aae0-d1fbfd17c603.png)
 
+### Easy Ensemble AdaBoost Classifier
 ![image](https://user-images.githubusercontent.com/108503112/212450445-a3218dbb-ed83-458a-8a2c-10e9ac8bce2e.png)
 
 
 ## Summary
+I would recommend using the Easy Ensemble AdaBoost Classifier because it has the highest accuracy score.
