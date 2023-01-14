@@ -32,6 +32,8 @@ From the imbalanced classification report, we can see the precision is a total o
 
 ### SMOTEENN Sampling
 
+The balanced accuracy score is 54.5%.
+From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.40.
 
 ![image](https://user-images.githubusercontent.com/108503112/212485520-c25e28e0-efe2-4c68-be4f-d5e88349fd1f.png)
 
