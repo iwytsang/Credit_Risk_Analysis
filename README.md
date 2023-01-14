@@ -9,7 +9,7 @@ The purpose of this analysis is to make a recommendation of whether or not the m
 
 ###  Random Oversampler
 
-The balanced accuracy score is 0.657. That means from all positive and negative classes, we have predicted 65.7% of them correctly.
+The balanced accuracy score is 0.657. That means from all predictions (both positive and negative), we have predicted 65.7% of them correctly.
 From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.87.
 With the precision at 0.99 percent, it means from all the classes we have predicted as positive, 99% are positive.
 With the recall at 0.87, it means that 87% of the positive classes were predicted correctly.
@@ -19,7 +19,7 @@ With the recall at 0.87, it means that 87% of the positive classes were predicte
 
 ### SMOTE Oversampler
 
-The balanced accuracy score is 0.653. That means from all positive and negative classes, we have predicted 65.3% of them correctly.
+The balanced accuracy score is 0.653. That means from all predictions (both positive and negative), we have predicted 65.3% of them correctly.
 From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.69.
 With the precision at 0.99 percent, it means from all the classes we have predicted as positive, 99% are positive.
 With the recall at 0.69, it means that 69% of the positive classes were predicted correctly.
@@ -29,7 +29,7 @@ With the recall at 0.69, it means that 69% of the positive classes were predicte
 
 ### Undersampling
 
-The balanced accuracy score is 0.545. That means from all positive and negative classes, we have predicted 54.5% of them correctly.
+The balanced accuracy score is 0.545. That means from all predictions (both positive and negative), we have predicted 54.5% of them correctly.
 From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.40.
 With the precision at 0.99 percent, it means from all the classes we have predicted as positive, 99% are positive.
 With the recall at 0.40 it means that 40% of the positive classes were predicted correctly.
@@ -39,7 +39,7 @@ With the recall at 0.40 it means that 40% of the positive classes were predicted
 
 ### SMOTEENN Sampling
 
-The balanced accuracy score is 0.545. That means from all positive and negative classes, we have predicted 54.5% of them correctly.
+The balanced accuracy score is 0.545. That means from all predictions (both positive and negative), we have predicted 54.5% of them correctly.
 From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.40.
 With the precision at 0.99 percent, it means from all the classes we have predicted as positive, 99% are positive.
 With the recall at 0.40 it means that 40% of the positive classes were predicted correctly.
@@ -51,7 +51,7 @@ With the recall at 0.40 it means that 40% of the positive classes were predicted
 
 ### Balanced Random Forest Classifier
 
-The balanced accuracy score is 0.788. That means from all positive and negative classes, we have predicted 78.8% of them correctly.
+The balanced accuracy score is 0.788. That means from all predictions (both positive and negative), we have predicted 78.8% of them correctly.
 From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.87.
 With the precision at 0.99 percent, it means from all the classes we have predicted as positive, 99% are positive.
 With the recall at 0.87 it means that 87% of the positive classes were predicted correctly.
@@ -60,7 +60,7 @@ With the recall at 0.87 it means that 87% of the positive classes were predicted
 
 ### Easy Ensemble AdaBoost Classifier
 
-The balanced accuracy score is 93.2%. That means from all positive and negative classes, we have predicted 93.2% of them correctly.
+The balanced accuracy score is 93.2%. That means from all predictions (both positive and negative), we have predicted 93.2% of them correctly.
 From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.94.
 With the precision at 0.99 percent, it means from all the classes we have predicted as positive, 99% are positive.
 With the recall at 0.94 it means that 94% of the positive classes were predicted correctly.
