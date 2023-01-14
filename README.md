@@ -19,7 +19,7 @@ The purpose of this analysis is to make a recommendation of whether or not the m
 
 
 ### SMOTEENN Sampling
-![image](https://user-images.githubusercontent.com/108503112/212449422-69f0e40f-d102-40bf-b470-ef997b93138f.png)
+![image](https://user-images.githubusercontent.com/108503112/212485520-c25e28e0-efe2-4c68-be4f-d5e88349fd1f.png)
 
 
 ## Ensemble Learners
