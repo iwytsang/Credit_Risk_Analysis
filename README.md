@@ -49,11 +49,11 @@ From the imbalanced classification report, we can see the precision is a total o
 
 ### Easy Ensemble AdaBoost Classifier
 
-The balanced accuracy score is 54.5%.
-From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.40.
+The balanced accuracy score is 93.2%.
+From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.94.
 
 ![image](https://user-images.githubusercontent.com/108503112/212450445-a3218dbb-ed83-458a-8a2c-10e9ac8bce2e.png)
 
 
 ## Summary
-I would recommend using the Easy Ensemble AdaBoost Classifier because it has the highest accuracy score.
+I would recommend using the Easy Ensemble AdaBoost Classifier because it has the highest accuracy score of 93.2%, and highest recall score of 0.94.
