@@ -11,6 +11,7 @@ The purpose of this analysis is to make a recommendation of whether or not the m
 
 The balanced accuracy score is 65.7%.
 From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.87.
+With the precision at 0.99 percent, it means from all the classes we have predicted as positive, 99% are positive.
 With the recall at 0.87, it means that 87% of the positive classes were predicted correctly.
 
 ![image](https://user-images.githubusercontent.com/108503112/212449359-c2c5959a-c581-4a37-91b0-a21145ae77a8.png)
@@ -20,6 +21,7 @@ With the recall at 0.87, it means that 87% of the positive classes were predicte
 
 The balanced accuracy score is 65.3%.
 From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.69.
+With the precision at 0.99 percent, it means from all the classes we have predicted as positive, 99% are positive.
 With the recall at 0.69, it means that 69% of the positive classes were predicted correctly.
 
 ![image](https://user-images.githubusercontent.com/108503112/212449344-edd2933a-a684-4d7d-bfe0-2ba92f160f7b.png)
@@ -29,6 +31,7 @@ With the recall at 0.69, it means that 69% of the positive classes were predicte
 
 The balanced accuracy score is 54.5%.
 From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.40.
+With the precision at 0.99 percent, it means from all the classes we have predicted as positive, 99% are positive.
 With the recall at 0.40 it means that 40% of the positive classes were predicted correctly.
 
 ![image](https://user-images.githubusercontent.com/108503112/212449326-e14439fc-c6c0-4aad-a8e5-cf2a67db903e.png)
@@ -38,6 +41,7 @@ With the recall at 0.40 it means that 40% of the positive classes were predicted
 
 The balanced accuracy score is 54.5%.
 From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.40.
+With the precision at 0.99 percent, it means from all the classes we have predicted as positive, 99% are positive.
 With the recall at 0.40 it means that 40% of the positive classes were predicted correctly.
 
 ![image](https://user-images.githubusercontent.com/108503112/212485520-c25e28e0-efe2-4c68-be4f-d5e88349fd1f.png)
@@ -49,6 +53,7 @@ With the recall at 0.40 it means that 40% of the positive classes were predicted
 
 The balanced accuracy score is 78.8%.
 From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.87.
+With the precision at 0.99 percent, it means from all the classes we have predicted as positive, 99% are positive.
 With the recall at 0.87 it means that 87% of the positive classes were predicted correctly.
 
 ![image](https://user-images.githubusercontent.com/108503112/212450069-c74602f3-e05c-4271-aae0-d1fbfd17c603.png)
@@ -57,6 +62,7 @@ With the recall at 0.87 it means that 87% of the positive classes were predicted
 
 The balanced accuracy score is 93.2%.
 From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.94.
+With the precision at 0.99 percent, it means from all the classes we have predicted as positive, 99% are positive.
 With the recall at 0.94 it means that 94% of the positive classes were predicted correctly.
 
 ![image](https://user-images.githubusercontent.com/108503112/212450445-a3218dbb-ed83-458a-8a2c-10e9ac8bce2e.png)
