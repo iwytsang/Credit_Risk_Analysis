@@ -9,7 +9,7 @@ The purpose of this analysis is to make a recommendation of whether or not the m
 
 ###  Random Oversampler
 
-The balanced accuracy score is 0.657. That means from all predictions ((both true/false positive and true/false negative), we have predicted 65.7% of them correctly.
+The balanced accuracy score is 0.657. That means from all predictions (both true/false positive and true/false negative), we have predicted 65.7% of them correctly.
 From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.87.
 With the precision at 0.99 percent, it means from the true positive and false positives, 99% are actually true positive.
 With the recall at 0.87, it means that 87% of the true positives out of the true positives and false negatives were predicted correctly.
@@ -19,7 +19,7 @@ With the recall at 0.87, it means that 87% of the true positives out of the true
 
 ### SMOTE Oversampler
 
-The balanced accuracy score is 0.653. That means from all predictions ((both true/false positive and true/false negative), we have predicted 65.3% of them correctly.
+The balanced accuracy score is 0.653. That means from all predictions (both true/false positive and true/false negative), we have predicted 65.3% of them correctly.
 From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.69.
 With the precision at 0.99 percent, it means from the true positive and false positives, 99% are actually true positive.
 With the recall at 0.69, it means that 69% of the true positives out of the true positives and false negatives were predicted correctly.
@@ -51,7 +51,7 @@ With the recall at 0.40 it means that 40% of the true positives out of the true 
 
 ### Balanced Random Forest Classifier
 
-The balanced accuracy score is 0.788. That means from all predictions ((both true/false positive and true/false negative), we have predicted 78.8% of them correctly.
+The balanced accuracy score is 0.788. That means from all predictions (both true/false positive and true/false negative), we have predicted 78.8% of them correctly.
 From the imbalanced classification report, we can see the precision is a total of 0.99 and recall of 0.87.
 With the precision at 0.99 percent, it means from the true positive and false positives, 99% are actually true positive.
 With the recall at 0.87 it means that 87% of the true positives out of the true positives and false negatives were predicted correctly.
@@ -69,4 +69,4 @@ With the recall at 0.94 it means that 94% of the true positives out of the true 
 
 
 ## Summary
-I would recommend using the Ensemble method with the Easy Ensemble AdaBoost Classifier because the results show that out of all the methods above, it has the highest accuracy score of 0.932, which means from all the predictions of true positive, 93.2% and highest recall score of 94%.
+I would recommend using the Ensemble method with the Easy Ensemble AdaBoost Classifier because the results show that out of all the methods above, it has the highest accuracy score of 0.932, which means from all the predictions of true positive, false positive, true negative and false negative, we have predicted 93.2% of them correctly. It also has the highest recall score of 94% of all the methods above.
