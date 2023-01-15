@@ -3,7 +3,7 @@
 ## Overview
 
 ### Purpose
-The purpose of this analysis is to use the credit card dataset from LendingClub to make a recommendation of whether or not the models should be used to assess credit risk. The analysis will be done using RandomOverSampler, SMOTE, ClusterCentroids as well as the SMOTEENN algorithm, as well as the BalancedRandomForestClassifier and EasyEnsembleClassifier to predict credit risk.
+The purpose of this analysis is to use the credit card dataset from LendingClub to make a recommendation of whether or not the models should be used to assess credit risk. The analysis will be done using the RandomOverSampler, SMOTE, ClusterCentroids, SMOTEENN algorithms, as well as the BalancedRandomForestClassifier and EasyEnsembleClassifier algorithms to predict credit risk.
 
 ## Analysis
 
@@ -69,4 +69,7 @@ With the recall at 0.94 it means that 94% of the true positives out of the true 
 
 
 ## Summary
-I would recommend using the Ensemble method with the Easy Ensemble AdaBoost Classifier because the results show that out of all the methods above, it has the highest accuracy score of 0.932, which means from all the predictions of true positive, false positive, true negative and false negative, we have predicted 93.2% of them correctly. It also has the highest recall score of 0.94 out of all the methods above which means that 94% of the true positives out of both the true positives and false negatives were predicted correctly.
+
+From the results of the analysis, it seems like the best method was from the Ensemble Learners due to the balance accuracy score, imbalanced classification, precision, and recalls being higher than the other methods.
+
+The Ensemble algorithm that I would recommend would be the Easy Ensemble AdaBoost Classifier because the results show that out of all the methods above, it has the highest accuracy score of 0.932, which means from all the predictions of true positive, false positive, true negative and false negative, we have predicted 93.2% of them correctly. It also has the highest recall score of 0.94 out of all the methods above which means that 94% of the true positives out of both the true positives and false negatives were predicted correctly.
