@@ -3,7 +3,7 @@
 ## Overview
 
 ### Purpose
-The purpose of this analysis is to make a recommendation of whether or not the models should be used to assess credit risk.
+The purpose of this analysis is to use the credit card dataset from LendingClub to make a recommendation of whether or not the models should be used to assess credit risk. The analysis will be done using RandomOverSampler, SMOTE, ClusterCentroids as well as the SMOTEENN algorithm, as well as the BalancedRandomForestClassifier and EasyEnsembleClassifier to predict credit risk.
 
 ## Analysis
 
